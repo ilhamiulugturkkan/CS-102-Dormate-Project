@@ -1,1 +1,1 @@
-# ilhamiulugturkkan--CS-102-Github-Tutorial-Spring-2022-
+# Bilkent University cs102 course's project. That's a pretty simple one but was great to learn at least a little bit mySQL.
